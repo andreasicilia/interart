@@ -32,7 +32,7 @@ Muestra de trabajos del espacio digital interactivo
 - MARIA DEL CARMEN PEREYRA LOPEZ 
 - PAULA PEREZ TORRES
 - YLENIA PUERTAS TRIBALDOS 
-- ANDREA SICILIA RUEDA 
+- ANDREA SICILIA RUEDA: https://andreasicilia.github.io/
 
 
 
